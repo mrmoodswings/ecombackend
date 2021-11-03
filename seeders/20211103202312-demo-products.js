@@ -20,8 +20,8 @@ module.exports = {
         "price":"240",
         "description":"Best Drip in the Market",
         "image":"items\/dt36.jpg",
-        "createdAt":"0000-00-00 00:00:00",
-        "updatedAt":"0000-00-00 00:00:00"
+        "createdAt":"2021-11-11 02:04:42.000000",
+        "updatedAt":"2021-11-11 02:04:42.000000"
         },
         {
         "id":"2",
@@ -29,8 +29,8 @@ module.exports = {
         "price":"50",
         "description":"Classy, Stylish",
         "image":"items\/sgw.jpg",
-        "createdAt":"0000-00-00 00:00:00",
-        "updatedAt":"0000-00-00 00:00:00"
+        "createdAt":"2021-11-11 02:04:42.000000",
+        "updatedAt":"2021-11-11 02:04:42.000000"
         },
         {
         "id":"3",
@@ -38,8 +38,8 @@ module.exports = {
         "price":"1200",
         "description":"Elegance built in",
         "image":"items\/sg20.jpg",
-        "createdAt":"0000-00-00 00:00:00",
-        "updatedAt":"0000-00-00 00:00:00"
+        "createdAt":"2021-11-11 02:04:42.000000",
+        "updatedAt":"2021-11-11 02:04:42.000000"
         },
         {
         "id":"4",
@@ -47,8 +47,8 @@ module.exports = {
         "price":"70",
         "description":"Sleek, Trendy, Clean",
         "image":"items\/a7.jpg",
-        "createdAt":"0000-00-00 00:00:00",
-        "updatedAt":"0000-00-00 00:00:00"
+        "createdAt":"2021-11-11 02:04:42.000000",
+        "updatedAt":"2021-11-11 02:04:42.000000"
         },
         {
         "id":"5",
@@ -56,8 +56,8 @@ module.exports = {
         "price":"70",
         "description":"Fabulous, Exotic, Classy",
         "image":"items\/7.jpg",
-        "createdAt":"0000-00-00 00:00:00",
-        "updatedAt":"0000-00-00 00:00:00"
+        "createdAt":"2021-11-11 02:04:42.000000",
+        "updatedAt":"2021-11-11 02:04:42.000000"
         },
         {
         "id":"6",
@@ -65,8 +65,8 @@ module.exports = {
         "price":"170",
         "description":"Neat, Sleek, Smart",
         "image":"items\/i12.jpg",
-        "createdAt":"0000-00-00 00:00:00",
-        "updatedAt":"0000-00-00 00:00:00"
+        "createdAt":"2021-11-11 02:04:42.000000",
+        "updatedAt":"2021-11-11 02:04:42.000000"
         },
         {
         "id":"11",
@@ -74,8 +74,8 @@ module.exports = {
         "price":"170",
         "description":"Neat, Sleek, Smart",
         "image":"items\/gp.jpg",
-        "createdAt":"0000-00-00 00:00:00",
-        "updatedAt":"0000-00-00 00:00:00"
+        "createdAt":"2021-11-11 02:04:42.000000",
+        "updatedAt":"2021-11-11 02:04:42.000000"
         }
         ],
       {}
