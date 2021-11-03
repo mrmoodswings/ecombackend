@@ -29,6 +29,7 @@ module.exports = {
         }
       );
       return res.json({
+        status:true,
         token,
         refreshToken,
         message: "Login Succesful",
