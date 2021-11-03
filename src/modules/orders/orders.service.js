@@ -32,7 +32,7 @@ module.exports = {
       const order = await Models.orders
         .create(
           {
-            customer_id: data.customer_id ?? null,
+            customer_id: data.customer_id,
             first_name: data.first_name,
             last_name: data.last_name,
             address: data.address,
